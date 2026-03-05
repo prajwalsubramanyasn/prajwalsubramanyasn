@@ -1,10 +1,5 @@
-## Hey there, 
+### Hi there, I'm [Prajwal](https://www.linkedin.com/in/prajwal-s-n-b4a0a025a/)
 
-I'm Prajwal, an application developer based in India.
+I'm an application developer based in India, exploring large language models and experimenting with Agentic AI.
 
-I build whatever I can imagine. 
-
-I'm exploring large language models and experimenting with agentic ai.
-
-I'm interested in building systems where models can automate workflows.
 
